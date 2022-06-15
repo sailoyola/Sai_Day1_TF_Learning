@@ -1,0 +1,25 @@
+
+#
+# DO NOT DELETE THESE LINES UNTIL INSTRUCTED TO!
+#
+# Your AMI ID is:
+#
+#     "ami-00482f016b2410dc8"
+#
+# Your subnet ID is:
+#   
+
+# "subnet-00af79b22f4998cc1"
+
+#
+# Your VPC security group ID is:
+#  
+
+# "sg-040da1415abc00d40"
+
+#
+# Your Identity is:
+#
+#     "awsaccount"
+#
+
